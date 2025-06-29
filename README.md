@@ -37,7 +37,8 @@
   → [GitHub Repo](https://github.com/netu2004/ThrivePath)
 
 - **Inventory Management System**  
-  → Django-based system for managing inventory, tracking orders, and reporting  
+  → Django-based system for managing inventory, tracking orders, and reporting
+  → [GitHub Repo](https://github.com/netu2004/django-ims)  
 
 - **IoT-Based Water Monitoring System**  
   → ESP32 + Blynk + Ultrasonic sensors for live water level alerts  
