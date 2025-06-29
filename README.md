@@ -55,7 +55,8 @@
   → ESP32 + Blynk + Ultrasonic sensors for live water level alerts  
 
 - **Real-Time Data Validation Using AI**  
-  → Simulated streaming weather data validation using AI techniques  
+  → Simulated streaming weather data validation using AI techniques
+  → [GitHub Repo](https://github.com/netu2004/Real-Time-Quality-Validation-for-Streaming-Data-Using-AI)
 
 ---
 
