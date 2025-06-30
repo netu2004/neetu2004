@@ -94,7 +94,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/netravatiballari020)  
 - 🐙 [GitHub](https://github.com/netu2004)  
 - 📧 ballarinetravati04@gmail.com
-- 👩‍💻 Portfolio: [netravatiballari.me](https://your-portfolio-link)
+- 👩‍💻 Portfolio: [netravatiballari.me](https://netu2004.github.io/My-Portfolio/)
 
 
 ---
